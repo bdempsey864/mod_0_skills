@@ -1,0 +1,11 @@
+terminal_3_bathroom
+
+number_of_stalls = 15
+is_clean = true
+is_full = false
+directions = "across from Chipotle"
+
+code_brown: number_of_stalls = 14
+man_walks_out_sweating_heavily: is_clean = false
+line_out_front: is_full = true
+new_store_across: directions = "across from Panda Express"
