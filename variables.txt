@@ -1,0 +1,7 @@
+movie = "Dumb and Dumber"
+num_4 = "4"
+num_6 = "6"
+product = "24"
+favorite_foods = ["strawberries", "ice_cream", "pasta"]
+["strawberries", "ice_cream", "pasta"] - ["strawberries"]
+print(len(movie))
