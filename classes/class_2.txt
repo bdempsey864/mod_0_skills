@@ -1,0 +1,11 @@
+Bathroom
+
+number_of_stalls (integer)
+is_clean (boolean)
+is_full (boolean)
+directions (string)
+
+code_brown (decreases number_of_stalls value by 1)
+man_walks_out_sweating_heavily (changes is_clean value to false)
+line_out_front (chanes is_full value to true)
+new_store_across(changes directions value)
