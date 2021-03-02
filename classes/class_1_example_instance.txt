@@ -1,0 +1,11 @@
+frontier_gate_1
+
+has_seating = true
+guest_clerks = 1
+plane_at_gate = false
+flying_the_plane = ["Susan", "George", "Cindy"]
+
+man_vomits_everywhere: has_seating = false
+help_requested: guest_clerks = 2
+plane_arrives: plane_at_gate = true
+schedule_change: flying_the_plane = ["Mark", "Jennifer", "Shawn"]
