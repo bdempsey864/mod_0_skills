@@ -1,0 +1,11 @@
+Terminal
+
+has_seating (boolean)
+guest_clerks (integer)
+plane_at_gate (boolean)
+flying_the_plane (array)
+
+man_vomits_everywhere (changes has_seating value to false)
+help_requested (adds 1 to guest_clerks value)
+plane_arrives (changes plane_at_gate value to true)
+schedule_change (changes the flying_the_plane values)
